@@ -1,0 +1,14 @@
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.exe
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.deps.json
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.runtimeconfig.json
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.runtimeconfig.dev.json
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.dll
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\bin\Debug\netcoreapp3.1\monkeyloader.pdb
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.Form1.resources
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.csproj.GenerateResource.cache
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.AssemblyInfoInputs.cache
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.AssemblyInfo.cs
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.csproj.CoreCompileInputs.cache
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.dll
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.pdb
+C:\Users\JayUS\source\repos\monkeyloader\monkeyloader\obj\Debug\netcoreapp3.1\monkeyloader.genruntimeconfig.cache
